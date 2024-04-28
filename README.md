@@ -1,4 +1,4 @@
 # CoinRecognizer
-This implementation uses Keras previous trained model, with two classes of mexican coins (5 and 10 pesos) and allows the user to open images to recognize them and make the sum of the values.
+This implementation utilizes a pre-trained Keras model for classifying two Mexican coin denominations (5 and 10 pesos). It allows users to upload images for recognition and calculates the sum of their values.
 
 The Keras model was trained using Teachable machine, with the images located in the folder "Imagenes"
